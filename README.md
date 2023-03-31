@@ -1,5 +1,4 @@
-# GrpcDiscovery
-net6 grpc service registration and discovery with Consul &amp; Etcd
+# NET6 Grpc 服务注册与发现 
 
 
 
